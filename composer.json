@@ -1,5 +1,5 @@
 {
-    "name": "bayareawebpro/nova-field-ckeditor",
+    "name": "bracketsdigital/nova-field-ckeditor",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -14,13 +14,13 @@
     },
     "autoload": {
         "psr-4": {
-            "BayAreaWebPro\\NovaFieldCkEditor\\": "src/"
+            "BracketsDigital\\NovaFieldCkEditor\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "BayAreaWebPro\\NovaFieldCkEditor\\FieldServiceProvider"
+                "BracketsDigital\\NovaFieldCkEditor\\FieldServiceProvider"
             ]
         }
     },
