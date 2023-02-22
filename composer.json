@@ -6,6 +6,12 @@
         "nova"
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bracketsdigital/nova-field-ckeditor"
+        }
+    ],
     "require": {
         "php": "^7.4|^8.0",
         "intervention/image": "^2.5",
